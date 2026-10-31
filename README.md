@@ -60,9 +60,9 @@ I'm a Computer Engineering undergraduate passionate about Artificial Intelligenc
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit.
 
-![GalleCastAI Dashboard - Screenshot 1](images/gallecastai_1.png)
+![GalleCastAI Dashboard - Screenshot 1](image/gallecastai_1.png)
 
-![GalleCastAI Dashboard - Screenshot 2](images/gallecastai_2.png)
+![GalleCastAI Dashboard - Screenshot 2](image/gallecastai_2.png)
 
 [View Project on GitHub](https://github.com/zayyanzameeth/GalleCastAI)
 
