@@ -52,17 +52,34 @@ I'm a Computer Engineering undergraduate passionate about Artificial Intelligenc
 
 ### 🚀 Featured Projects
 
-**1. MyOUSL AI Chatbot**
+**1. GalleCastAI – Next-Day Rainfall Prediction System**
+
+- Developed a machine learning application for next-day rainfall prediction in Galle, Sri Lanka.
+- Implemented Linear Regression and Random Forest models.
+- Built an interactive dashboard using Streamlit.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit.
+
+![GalleCastAI Dashboard - Screenshot 1](images/gallecastai_1.png)
+
+![GalleCastAI Dashboard - Screenshot 2](images/gallecastai_2.png)
+
+[View Project on GitHub](https://github.com/zayyanzameeth/GalleCastAI)
+
+**2. MyOUSL AI Chatbot**
+
 - Developing a university student-support chatbot using Retrieval-Augmented Generation (RAG).
 - Working with Ollama, n8n, Supabase, and ASP.NET Core REST APIs.
 - Focused on retrieving accurate university-related information.
 
-**2. Machine Learning Projects**
+**3. Machine Learning Projects**
+
 - Exploring supervised and unsupervised learning.
 - Working on data preprocessing, model training, and evaluation.
 - Applying Python-based machine learning tools.
 
-**3. Engineering & Automation Projects**
+**4. Engineering & Automation Projects**
+
 - Developing automation workflows and API integrations.
 - Exploring practical applications of AI and intelligent systems.
 
@@ -80,9 +97,9 @@ I'm a Computer Engineering undergraduate passionate about Artificial Intelligenc
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/zayyan-zameeth-22341019a/](https://www.linkedin.com/)
-- GitHub: [https://github.com/zayyanzameeth](https://github.com/)
-- Email: [zayanzameek@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [Zayyan Zameeth](https://www.linkedin.com/in/zayyan-zameeth-22341019a/)
+- GitHub: [zayyanzameeth](https://github.com/zayyanzameeth)
+- Email: [zayanzameek@gmail.com](mailto:zayanzameek@gmail.com)
 
 ---
 
